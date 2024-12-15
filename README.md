@@ -36,7 +36,7 @@ npm install
  npm run dev
  ```
 
-## 📸 Application Screenshots
+## 📸 Application Interface
 
 ### 1. Landing Page
 ![Screenshot 2024-12-15 230605](https://github.com/user-attachments/assets/48babb1c-a327-4396-b10f-bf14caedb581)
